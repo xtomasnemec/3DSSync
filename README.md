@@ -16,7 +16,7 @@ Right now it's a bit hacky, contributions are welcome.
 Currently, there is no way to customise what 3DSSync copies. The currently processed folders are `/DCIM/` (3DS Camera and in-game screenshots) and `/luma/screenshots/` (Luma3DS screenshots). Luma screenshots are flattened into a single image and converted to PNG for convenience.
 
 ## How to Run
-- Download [this folder](https://github.com/xtomasnemec/3DSSync/tree/master/scripts)
+- Download [this folder](https://github.com/Silver-Volt4/3DSSync/tree/master/scripts)
 - Run download.bat
 - Navigate to your WSL home/3DSSync and edit `get_ip_address.sh`, `get_login_parameters.sh` and `process_batch.sh`
-- Run 3DSSync.bat
+- Run `3DSSync.bat`
